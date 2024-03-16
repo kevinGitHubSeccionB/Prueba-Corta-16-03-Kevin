@@ -1,0 +1,11 @@
+# ninja log v5
+1	1011	7323073639016127	CMakeFiles/prueba_corta_16_03.dir/main.cpp.obj	b1117c3cf2513927
+1015	1254	7323073641336359	prueba_corta_16_03.exe	c9d6fc58f1fc6dcb
+9	1048	7323079126520191	CMakeFiles/prueba_corta_16_03.dir/main.cpp.obj	b1117c3cf2513927
+1050	1314	7323079129083218	prueba_corta_16_03.exe	c9d6fc58f1fc6dcb
+6	837	7323081687055082	CMakeFiles/prueba_corta_16_03.dir/main.cpp.obj	b1117c3cf2513927
+838	1019	7323081688773914	prueba_corta_16_03.exe	c9d6fc58f1fc6dcb
+6	847	7323082528880902	CMakeFiles/prueba_corta_16_03.dir/main.cpp.obj	b1117c3cf2513927
+848	1019	7323082530545822	prueba_corta_16_03.exe	c9d6fc58f1fc6dcb
+7	1262	7323106149095454	CMakeFiles/prueba_corta_16_03.dir/main.cpp.obj	b1117c3cf2513927
+1264	1481	7323106151146911	prueba_corta_16_03.exe	c9d6fc58f1fc6dcb

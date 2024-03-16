@@ -1,0 +1,3 @@
+C:/Users/kevin/CLionProjects/prueba-corta-16-03/cmake-build-debug/CMakeFiles/prueba_corta_16_03.dir
+C:/Users/kevin/CLionProjects/prueba-corta-16-03/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kevin/CLionProjects/prueba-corta-16-03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
